@@ -1,5 +1,21 @@
-/** @type {import('next').NextConfig} */
 module.exports = {
-  reactStrictMode: false,
-  transpilePackages: ['@repo/ui'],
-};
+    reactStrictMode: false,
+    transpilePackages: ["utilities"],
+    images: {
+      remotePatterns: [
+        {
+          protocol: 'https',
+          hostname: 'placehold.it',
+          port: '',
+          pathname: '/**',
+        },
+        {
+          protocol: 'https',
+          hostname: 'www.youtube.com',
+          port: '',
+          pathname: '/**',
+        },
+      ],
+      },
+    };
+  
