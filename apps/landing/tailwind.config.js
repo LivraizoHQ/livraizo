@@ -2,6 +2,5 @@
 const { raitonTailwindConfigWrapper } = require('@axazara/raiton-utils');
 
 module.exports = raitonTailwindConfigWrapper({
-  content: ['./src/**/*.{js,jsx,ts,tsx}'],
-  theme: {},
+  content: ['./app/**/*.{js,jsx,ts,tsx}'],
 });

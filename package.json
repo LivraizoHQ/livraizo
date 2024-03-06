@@ -9,6 +9,9 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@types/node": "^17.0.45",
+    "@types/react": "^18.2.33",
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
     "prettier": "^3.1.0",
