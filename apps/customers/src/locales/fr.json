@@ -1,0 +1,72 @@
+{
+  "Layout": {
+    "sidebar": {
+      "dashboard": "Tableau de bord",
+      "history": "Historique",
+      "disposable-e-mail": "E-mail jetable ",
+      "funds": "Fonds",
+      "transactions": "Transactions",
+      "notifications": "Notifications",
+      "about": "A propos de",
+      "help": "Aide",
+      "help_center": "Centre d'aide",
+      "privacy": "Confidentialité",
+      "more": "Plus",
+      "home": "Accueil",
+      "link": "Liens",
+      "button": "Obtenez un numéro"
+    }
+  },
+  "Connect": {
+    "redirect_notice": "You are being redirected to Axa Zara Account to access your crilix. This connection is automatic.",
+    "retry": "Retry"
+  },
+  "Login": {
+    "title": "Connectez-vous à votre compte",
+    "dontHaveAccount": "Vous n'avez pas de compte?",
+    "createAccount": "Inscrivez-vous",
+    "button": "Se connecter"
+  },
+  "Register": {
+    "title": "Créez votre compte",
+    "about": "Un seul compte, tout Axa Zara.",
+    "knowMore": " En savoir plus.",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "loginHere": " Connectez-vous ici",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Addresse email",
+    "createAccount": "Créer votre compte"
+  },
+  "Dashboard": {
+    "hello": "Bonjour",
+    "solde": "Solde Disponible",
+    "backorder": "Commande en attente",
+    "obtain_new_number": "Obtient un nouveau numéro pour",
+    "button": {
+      "top_up_account": "Recharger mon compte",
+      "view_orders": "Voir mes commandes"
+    },
+    "quick_actions": {
+      "title": "Actions rapides",
+      "description": "Jetez un coup œil à nos articles de blog si vous avez besoin de plus d'aide",
+      "how_do_referral_links": "Obtenir mes liens de parrainage",
+      "withdraw_my_winnings": "Retirer mes gains",
+      "get_promotional_resources": "Obtenez des ressources promotionnelles",
+      "how_do_payment": "Comment recevoir mes paiements ?",
+      "how_do_verification": "Comment vérifier mon compte ?",
+      "view_my_earnings": "Afficher mes gains"
+    },
+    "did_you_know": {
+      "title": "Le saviez-vous?",
+      "description": "Bénéficiez de 20% de réduction sur vos achats pendant tout le mois d'août !"
+    }
+  },
+  "History": {
+    "active": "Actif",
+    "finished": "Terminé"
+  },
+  "Email": {
+    "add_button": "Créer une adresse mail jetable"
+  }
+}

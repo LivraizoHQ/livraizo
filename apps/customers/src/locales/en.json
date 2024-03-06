@@ -1,0 +1,70 @@
+{
+  "Layout": {
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "history": "History",
+      "disposable-e-mail": "Disposable E-mail",
+      "funds": "Funds",
+      "transactions": "Transactions",
+      "notifications": "Notifications",
+      "about": "About",
+      "help": "Help",
+      "help_center": "Help Center",
+      "privacy": "Privacy",
+      "more": "More",
+      "home": "Home",
+      "link": "Link",
+      "button": "Get a number"
+    }
+  },
+  "Connect": {
+    "redirect_notice": "You are being redirected to Axa Zara Account to access your crilix. This connection is automatic.",
+    "retry": "Retry"
+  },
+  "Login": {
+    "title": "Sign in to your account",
+    "dontHaveAccount": "Don't have an account?",
+    "createAccount": "Sign up",
+    "button": "Sign in"
+  },
+  "Register": {
+    "title": "Create your account",
+    "about": "One account, all Axa Zara.",
+    "knowMore": " Learn more.",
+    "alreadyHaveAccount": "Already have an account?",
+    "loginHere": " Log in here",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email address",
+    "createAccount": "Create your account"
+  },
+  "Dashboard": {
+    "hello": "Hello",
+    "solde": "Balance Available",
+    "backorder": "Backorder",
+    "button": {
+      "top_up_account": "Top up my account",
+      "view_orders": "View my orders"
+    },
+    "obtain_new_number": "Gets a new number for",
+    "quick_actions": {
+      "title": "Quicks actions",
+      "description": "Take a look to our blog articles if you need more help",
+      "how_do_referral_links": "Get my referals links",
+      "withdraw_my_winnings": "Withdraw_my_winnings",
+      "get_promotional_resources": "Get promotional resources",
+      "view_my_earnings": "View my earnings"
+    },
+    "did_you_know": {
+      "title": "Did_you_know?",
+      "description": "Get 20% off your purchases for the whole month of August!"
+    }
+  },
+  "History": {
+    "active": "Active",
+    "finished": "Finished"
+  },
+  "Email": {
+    "add_button": "Create a disposable email address"
+  }
+}
