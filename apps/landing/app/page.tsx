@@ -2,7 +2,8 @@
 
 import React from 'react';
 import Image from 'next/image';
-import { Box, Button, Text } from '@axazara/raiton-atoms';
+import { Box, Button, Text, Surface } from '@axazara/raiton-atoms';
+import { MessageNotifFill } from '@axazara/raiton-icons';
 import { DeliversCardSlider, Header } from './components';
 
 export default function Page(): JSX.Element {
@@ -66,6 +67,16 @@ export default function Page(): JSX.Element {
                   </Button>
                 </Box>
               </Box>
+            </Box>
+          </Box>
+          <Box className="bg-white mt-16 px-4">
+            <Surface className="flex justify-center bg-[#D9D9D9] md:max-w-6xl h-44 mx-auto rounded-3xl" />
+            <Box className="text-center">
+              <Text className="text-dark md:text-display-04 mt-8">Accédez au catalogue</Text>
+            </Box>
+            <Box className="flex md:flex-row md:space-x-4 justify-center mt-6 mb-20">
+              <Button className="bg-dark text-white">Trouver un livreur</Button>
+              <Button className="bg-dark text-white">Devenir livreur</Button>
             </Box>
           </Box>
         </Box>
