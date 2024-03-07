@@ -1,1 +1,1 @@
-declare module '@axazara/raiton-icons';
+declare module "@axazara/raiton-icons";
