@@ -2,8 +2,8 @@
 
 import React from 'react';
 import { MarginWidthWrapper, PageWrapper, Header } from '../../../layouts/components';
-import '../../../css/tailwind.css'
-import '../../../css/custom.css'
+import '../../../css/tailwind.css';
+import '../../../css/custom.css';
 import Sidebar from '../../../layouts/Sidebar';
 
 export function AppLayout({ children }: { children: React.ReactNode }) {

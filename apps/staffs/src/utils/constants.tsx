@@ -6,7 +6,6 @@ export type SideNavItem = {
   subMenuItems?: SideNavItem[];
 };
 
-
 export const SIDENAV_ITEMS: SideNavItem[] = [
   {
     title: 'Users',
@@ -16,7 +15,4 @@ export const SIDENAV_ITEMS: SideNavItem[] = [
     title: 'Satistics',
     path: '/statistics',
   },
-  
 ];
-
-
